@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChuckleByte_ProductLaunch/static/css/main.9c6e5f99.css",
+    "main.js": "/ChuckleByte_ProductLaunch/static/js/main.54953433.js",
+    "static/js/453.0297a6b4.chunk.js": "/ChuckleByte_ProductLaunch/static/js/453.0297a6b4.chunk.js",
+    "index.html": "/ChuckleByte_ProductLaunch/index.html",
+    "main.9c6e5f99.css.map": "/ChuckleByte_ProductLaunch/static/css/main.9c6e5f99.css.map",
+    "main.54953433.js.map": "/ChuckleByte_ProductLaunch/static/js/main.54953433.js.map",
+    "453.0297a6b4.chunk.js.map": "/ChuckleByte_ProductLaunch/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c6e5f99.css",
+    "static/js/main.54953433.js"
+  ]
+}
